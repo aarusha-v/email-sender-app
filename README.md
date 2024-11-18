@@ -30,7 +30,7 @@ Email Sender is a Django project that allows you to send emails easily. It provi
 3. Clone the repository:
 
    ```shell
-   git clone https://github.com/Uglypr1nces/emailsender.git
+   git clone https://github.com/aaarusha-v/email-sender-app.git
 
 4. Start project:
     ```shell
